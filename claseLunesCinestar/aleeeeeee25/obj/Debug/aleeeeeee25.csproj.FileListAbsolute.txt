@@ -1,0 +1,5 @@
+C:\Users\Alumno\Desktop\claseLunesCinestar\aleeeeeee25\obj\Debug\aleeeeeee25.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\claseLunesCinestar\aleeeeeee25\obj\Debug\aleeeeeee25.Form1.resources
+C:\Users\Alumno\Desktop\claseLunesCinestar\aleeeeeee25\obj\Debug\aleeeeeee25.Properties.Resources.resources
+C:\Users\Alumno\Desktop\claseLunesCinestar\aleeeeeee25\obj\Debug\aleeeeeee25.csproj.GenerateResource.cache
+C:\Users\Alumno\Desktop\claseLunesCinestar\aleeeeeee25\obj\Debug\aleeeeeee25.csproj.CoreCompileInputs.cache

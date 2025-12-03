@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alumno\\Desktop\\claseLunesCinestar\\wcfCincestar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{751E3C9C-7092-42B2-B72F-C101AC973ABD}|wcfCincestar.csproj|c:\\users\\alumno\\desktop\\claselunescinestar\\wcfcincestar\\controllers\\cinestarcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751E3C9C-7092-42B2-B72F-C101AC973ABD}|wcfCincestar.csproj|solutionrelative:controllers\\cinestarcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751E3C9C-7092-42B2-B72F-C101AC973ABD}|wcfCincestar.csproj|c:\\users\\alumno\\desktop\\claselunescinestar\\wcfcincestar\\controllers\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751E3C9C-7092-42B2-B72F-C101AC973ABD}|wcfCincestar.csproj|solutionrelative:controllers\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751E3C9C-7092-42B2-B72F-C101AC973ABD}|wcfCincestar.csproj|c:\\users\\alumno\\desktop\\claselunescinestar\\wcfcincestar\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{751E3C9C-7092-42B2-B72F-C101AC973ABD}|wcfCincestar.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751E3C9C-7092-42B2-B72F-C101AC973ABD}|wcfCincestar.csproj|c:\\users\\alumno\\desktop\\claselunescinestar\\wcfcincestar\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{751E3C9C-7092-42B2-B72F-C101AC973ABD}|wcfCincestar.csproj|solutionrelative:web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751E3C9C-7092-42B2-B72F-C101AC973ABD}|wcfCincestar.csproj|c:\\users\\alumno\\desktop\\claselunescinestar\\wcfcincestar\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{751E3C9C-7092-42B2-B72F-C101AC973ABD}|wcfCincestar.csproj|solutionrelative:web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751E3C9C-7092-42B2-B72F-C101AC973ABD}|wcfCincestar.csproj|c:\\users\\alumno\\desktop\\claselunescinestar\\wcfcincestar\\svcinestar.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751E3C9C-7092-42B2-B72F-C101AC973ABD}|wcfCincestar.csproj|solutionrelative:svcinestar.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{751E3C9C-7092-42B2-B72F-C101AC973ABD}|wcfCincestar.csproj|c:\\users\\alumno\\desktop\\claselunescinestar\\wcfcincestar\\icinestar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{751E3C9C-7092-42B2-B72F-C101AC973ABD}|wcfCincestar.csproj|solutionrelative:icinestar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\claseLunesCinestar\\wcfCincestar\\Web.Release.config",
+              "RelativeDocumentMoniker": "Web.Release.config",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\claseLunesCinestar\\wcfCincestar\\Web.Release.config",
+              "RelativeToolTip": "Web.Release.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-26T18:22:43.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\claseLunesCinestar\\wcfCincestar\\Web.Debug.config",
+              "RelativeDocumentMoniker": "Web.Debug.config",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\claseLunesCinestar\\wcfCincestar\\Web.Debug.config",
+              "RelativeToolTip": "Web.Debug.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-26T18:22:42.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\claseLunesCinestar\\wcfCincestar\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\claseLunesCinestar\\wcfCincestar\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-26T18:21:56.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CinestarControllers.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\claseLunesCinestar\\wcfCincestar\\Controllers\\CinestarControllers.cs",
+              "RelativeDocumentMoniker": "Controllers\\CinestarControllers.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\claseLunesCinestar\\wcfCincestar\\Controllers\\CinestarControllers.cs",
+              "RelativeToolTip": "Controllers\\CinestarControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:20:55.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Db.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\claseLunesCinestar\\wcfCincestar\\Controllers\\Db.cs",
+              "RelativeDocumentMoniker": "Controllers\\Db.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\claseLunesCinestar\\wcfCincestar\\Controllers\\Db.cs",
+              "RelativeToolTip": "Controllers\\Db.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T18:16:24.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "svCinestar.svc.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\claseLunesCinestar\\wcfCincestar\\svCinestar.svc.cs",
+              "RelativeDocumentMoniker": "svCinestar.svc.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\claseLunesCinestar\\wcfCincestar\\svCinestar.svc.cs",
+              "RelativeToolTip": "svCinestar.svc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T17:53:47.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICinestar.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\claseLunesCinestar\\wcfCincestar\\ICinestar.cs",
+              "RelativeDocumentMoniker": "ICinestar.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\claseLunesCinestar\\wcfCincestar\\ICinestar.cs",
+              "RelativeToolTip": "ICinestar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T17:53:17.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
